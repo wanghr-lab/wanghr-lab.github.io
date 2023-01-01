@@ -34,6 +34,8 @@ nav:
     href:           "/blog"
   - name:           "resources"
     href:           "/resources"
+  - name:           "dynamic"
+    href:           "/dynamic"
 
 # Sass
 sass:
