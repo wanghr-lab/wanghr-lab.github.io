@@ -5,7 +5,7 @@ avatar: HongRuWang.png.png
 twitter: KordingLab
 ---
 
-<img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Professor,Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences_<br>
 
