@@ -7,12 +7,12 @@ twitter: KordingLab
 
 <img width="100" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
-- _Science coach. Collaborator. Transdisciplinary optimist._
+- _Professor,Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences_<br>
+
 
 <i class="fa fa-envelope-o"></i> `wanghongru@caas.cn`
 
 **Office**<br>
-404B Richards, 3700 Hamilton Walk <br>
-Philadelphia, PA 19104
+Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences <br>
+Shenzhen, Guangdong Province
 
