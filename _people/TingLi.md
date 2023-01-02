@@ -1,7 +1,7 @@
 ---
 name: Ting Li
 position: Administration Staff
-avatar: ari_benjamin.jpg
+avatar: tingli.png
 joined: 2022
 ---
 
