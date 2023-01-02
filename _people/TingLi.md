@@ -3,6 +3,7 @@ name: Ting Li
 position: Administration Staff
 avatar: tingli.png
 joined: 2022
+
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
