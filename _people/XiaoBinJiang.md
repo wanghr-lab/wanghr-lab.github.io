@@ -1,13 +1,12 @@
 ---
-name: Xioabin Jiang
+name: Xiaobin Jiang
 position: postdoc
 avatar: BenBphoto.JPG
-twitter: tbbake
-joined: 2020
+joined: 2022
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-tbak@sas.upenn.edu
+jiangxb2215@outlook.com
 
 [Homepage](http://tbenbaker.com)
