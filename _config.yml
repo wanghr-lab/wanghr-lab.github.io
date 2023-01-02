@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "汪鸿儒课题组"
+name:               "WangLab"
 title:              "Wang Lab at the Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences"
 description:        "The Wang Lab is a Evolutionary Genetics and Genomics research group at  Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences."
 
@@ -22,20 +22,20 @@ highlighter:        rouge
 
 # Navigation
 nav:
-  - name:           "首页"
+  - name:           "home"
     href:           "/"
-  - name:           "课题组介绍"
-    href:           "/课题组介绍"
-  - name:           "论文发表"
-    href:           "/论文发表"
-  - name:           "课题组成员"
-    href:           "/课题组成员"
+  - name:           "about"
+    href:           "/about"
+  - name:           "publications"
+    href:           "/publications"
+  - name:           "people"
+    href:           "/people"
   - name:           "blog"
     href:           "/blog"
   - name:           "resources"
     href:           "/resources"
-  - name:           "课题组动态"
-    href:           "/课题组动态"
+  - name:           "dynamics"
+    href:           "/dynamics"
 
 # Sass
 sass:
