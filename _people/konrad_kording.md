@@ -2,7 +2,7 @@
 name: Hongru Wang
 position: pi
 avatar: konrad_profile_3.jpg
-email:wanghongru@caas.cn
+twitter: KordingLab
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
