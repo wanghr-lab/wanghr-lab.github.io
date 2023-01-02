@@ -10,10 +10,8 @@ joined: 2022
 - _Research Assistant,Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences_<br>
 - _Master's degree,Nanyang Normal University._
 
-<i class="fa fa-envelope-o"></i>  `liting01@caas.cn`<br>
+<i class="fa fa-envelope-o"></i> `liting01@caas.cn`<br>
 
-
-<hr>
 
 
 
