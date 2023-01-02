@@ -1,7 +1,7 @@
 ---
 name: Hongru Wang
 position: pi
-avatar:HongRuWang.png.png
+avatar:HongRuWang.png
 twitter: KordingLab
 ---
 
