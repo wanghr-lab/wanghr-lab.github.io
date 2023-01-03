@@ -1,13 +1,13 @@
 ---
 title: blog
-permalink: /blog/
+permalink: /dynamics/
 ---
 
-### **Blog posts from the lab**
+### **dynamics posts from the lab**
 
 <div class="content list">
   {% for post in site.posts %}
-    {% if post.categories contains 'newblog' %}
+    {% if post.categories contains 'newdynamics' %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ post.url | prepend: site.baseurl }}">
