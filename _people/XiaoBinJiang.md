@@ -1,7 +1,7 @@
 ---
 name: Xiaobin Jiang
 position: postdoc
-avatar: xiaobinjiang.JPG
+avatar: xiaobinjiang.jpg
 joined: 2022
 ---
 
