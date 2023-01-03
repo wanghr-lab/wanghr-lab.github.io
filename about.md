@@ -22,3 +22,4 @@ Our research group is very concerned with the creation of a positive laboratory 
 Our research group is a team that enjoys challenges, is willing to innovate, and has a strong curiosity for science and technology. During work, we are happy to learn new knowledge, skills, and methods, continuously improving our personal abilities, while also having open communication and collaboration among team members to complete tasks together. During leisure time, our research group occasionally holds recreational activities to enhance the feelings and cohesion of our team members. Our group has an open and inclusive spirit, is good at accepting and respecting different opinions, cultures, and backgrounds, and everyone in the group is respected and has the right to be heard and have their opinions expressed.
 
 If you are interested, you are welcome to join our research group.
+
