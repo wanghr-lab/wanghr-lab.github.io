@@ -1,5 +1,5 @@
 ---
-name: Tony Liu
+name: Ting Li
 position: gradstudent
 avatar: tony_liu.jpg
 twitter:
@@ -10,7 +10,7 @@ joined: 2018
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>`liutony@seas.upenn.edu`<br>
+<i class="fa fa-envelope-o"></i>`liting01caas.cn`<br>
 <i class="fa fa-building"></i> Richards Building 4th Floor, Hamilton Walk <br>
 [<i class="fa fa-google"></i> Google Scholar](https://scholar.google.com/citations?user=U0Rzad0AAAAJ&hl=en)
 
