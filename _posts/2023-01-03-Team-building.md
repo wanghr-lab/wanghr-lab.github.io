@@ -21,13 +21,16 @@ The group will visit various attractions in Dapeng New District, Shenzhen, Guang
 
 During the trip, the group will enjoy the beautiful beaches, engage in in-depth exchanges, climb small coastal mountains, and taste delicious seafood.
 
+
 <figure><center>
   <img width="500" src="{{site.baseurl}}/images/post/lab_redesign/team3" data-action="zoom">
 </center></figure>
 
+
 <figure><center>
   <img width="500" src="{{site.baseurl}}/images/post/lab_redesign/team5" data-action="zoom">
 </center></figure>
+
 
 <figure><center>
   <img width="500" src="{{site.baseurl}}/images/post/lab_redesign/team2" data-action="zoom">
