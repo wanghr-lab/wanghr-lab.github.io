@@ -3,7 +3,7 @@ title: blog
 permalink: /news/
 ---
 
-### **dynamics posts from the lab**
+### **news posts from the lab**
 
 <div class="content list">
   {% for post in site.posts %}
