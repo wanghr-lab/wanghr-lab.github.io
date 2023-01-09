@@ -1,6 +1,6 @@
 ---
-title: People
-permalink: /people/
+title: Team
+permalink: /team/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
