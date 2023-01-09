@@ -1,7 +1,7 @@
 ---
 title: The Wang Lab's First Team-building Event
 description: Welcoming the New Year of 2023
-categories: newdynamics
+categories: newnews
 header-img: images/post/lab_redesign/team4.jpg
 ---
 *by Ting Li.*
