@@ -24,14 +24,16 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
-    href:           "/about"
+  - name:           "reesearch"
+    href:           "/reesearch"
   - name:           "publications"
     href:           "/publications"
-  - name:           "people"
-    href:           "/people"
-  - name:           "dynamics"
-    href:           "/dynamics"
+  - name:           "team"
+    href:           "/team"
+  - name:           "news"
+    href:           "/news"
+  - name:           "join"
+    href:           "/join"
   
 
 # Sass
